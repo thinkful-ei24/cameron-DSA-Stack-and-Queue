@@ -120,9 +120,10 @@ stack.push(9);
 stack.push(11);
 stack.push(0);
 stack.push(-2);
-stack.push(8);
+stack.push(-2);
 stack.push(13);
 
+// console.log(sortStack(stack));
 
 
 
